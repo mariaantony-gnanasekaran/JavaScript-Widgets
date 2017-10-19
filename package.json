@@ -2,7 +2,7 @@
 
 {
 
-  "name": "syncfusion-javascript",
+  "name": "js-pkg",
 
   "version": "15.3.33",
 
@@ -80,9 +80,7 @@
           "Scripts/common/ej.widget.angular.min.js",
           "Scripts/common/ej.widget.angular.min.map",
           "Scripts/common/ej.widget.ko.min.js",
-          "Scripts/common/ej.widget.ko.min.map",
-          "Scripts/web/ej.web.all*.js",
-          "Scripts/web/ej.web.all.min.map"
+          "Scripts/common/ej.widget.ko.min.map"         
        ]
     }
 }
